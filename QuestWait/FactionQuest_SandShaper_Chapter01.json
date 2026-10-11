@@ -1,0 +1,35 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestChapterDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": []
+    },
+    "IsObsolete": false,
+    "ChapterNumber": 1,
+    "Quests": [
+        {
+            "serializableElementName": "FactionQuest_SandShaper_Chapter01_Step01"
+        },
+        {
+            "serializableElementName": "FactionQuest_SandShaper_Chapter01_Step01_Resume"
+        },
+        {
+            "serializableElementName": "FactionQuest_SandShaper_Chapter01_Step02"
+        },
+        {
+            "serializableElementName": "FactionQuest_SandShaper_Chapter01_Step03"
+        }
+    ]
+}

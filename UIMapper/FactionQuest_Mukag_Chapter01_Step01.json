@@ -1,0 +1,50 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.UI.UIMapper, Amplitude.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "RawTitle": "%StartingHeroChoice_WaitForHero_Start_Title",
+    "Description": "%StartingHeroChoice_WaitForHero_Start_Description",
+    "Lore": "",
+    "Images": [
+        {
+            "Value": {
+                "guid": {
+                    "a": 293082237,
+                    "b": 1202408179,
+                    "c": 351367577,
+                    "d": -2136980164
+                },
+                "virtualTextureKeyHash": 0
+            },
+            "serializableKey": "Artwork"
+        }
+    ],
+    "UIColor": {
+        "paletteGuid": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0
+        },
+        "colorGuid": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0
+        },
+        "freeColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "modifierHolder": {
+            "isEnabled": false,
+            "alpha": 0.0
+        }
+    },
+    "Symbol": "",
+    "OptionalTag": ""
+}

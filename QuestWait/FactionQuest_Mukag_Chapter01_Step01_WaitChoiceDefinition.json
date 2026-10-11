@@ -1,0 +1,1030 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestChoiceDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": "FactionQuest_SandShaper_Chapter02_Step00ChoiceDefinition"
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": [
+            {
+                "Name": "QuestSteps",
+                "Entry": 7,
+                "Data": "0|Amplitude.Mercury.Data.Simulation.QuestStep[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "1|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "StartingHeroChoice_WaitForHero_Start"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "100"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 1,
+                "Data": "%StartingHeroChoice_WaitForHero_Start_Objective"
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "2|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_Mukag_Chapter01_Step01_Resume"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "3|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "4|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "5|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_TargetContainDescriptor, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartingType",
+                "Entry": 1,
+                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
+            },
+            {
+                "Name": "Path",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
+            },
+            {
+                "Name": "PropertyToFollow",
+                "Entry": 7,
+                "Data": "6|System.String[], mscorlib"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Validations",
+                "Entry": 7,
+                "Data": "7|Amplitude.Framework.Simulation.Description.Validation[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Validation, Amplitude.Framework"
+            },
+            {
+                "Name": "PathIndex",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "ValidableElementCollection",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Inverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Tag_Empire_StartingHeroChoice_HeroPicked"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "specificTargetType",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ValueToReach",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "NumberOfTurnToValidate",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ComparisonOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "8|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "9|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "10|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_TargetContainDescriptor, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 1,
+                "Data": "%StartingHeroChoice_WaitForHero_Start_Condition"
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartingType",
+                "Entry": 1,
+                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
+            },
+            {
+                "Name": "Path",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
+            },
+            {
+                "Name": "PropertyToFollow",
+                "Entry": 7,
+                "Data": "11|System.String[], mscorlib"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Validations",
+                "Entry": 7,
+                "Data": "12|Amplitude.Framework.Simulation.Description.Validation[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Validation, Amplitude.Framework"
+            },
+            {
+                "Name": "PathIndex",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "ValidableElementCollection",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Inverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Tag_Empire_StartingHeroChoice_HeroPicked"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "specificTargetType",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ValueToReach",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "NumberOfTurnToValidate",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "ComparisonOperator",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "13|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "14|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "15|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "100"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "16|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_Mukag_Chapter01_Step01_Resume"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "17|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "18|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "19|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_TargetContainDescriptor, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartingType",
+                "Entry": 1,
+                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
+            },
+            {
+                "Name": "Path",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
+            },
+            {
+                "Name": "PropertyToFollow",
+                "Entry": 7,
+                "Data": "20|System.String[], mscorlib"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Validations",
+                "Entry": 7,
+                "Data": "21|Amplitude.Framework.Simulation.Description.Validation[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Validation, Amplitude.Framework"
+            },
+            {
+                "Name": "PathIndex",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "ValidableElementCollection",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Inverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Tag_Empire_StartingHeroChoice_HeroPicked"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "specificTargetType",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ValueToReach",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "NumberOfTurnToValidate",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ComparisonOperator",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "22|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "23|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "24|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "25|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            }
+        ]
+    }
+}

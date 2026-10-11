@@ -1,0 +1,2510 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestChoiceDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": [
+            {
+                "Name": "QuestSteps",
+                "Entry": 7,
+                "Data": "0|Amplitude.Mercury.Data.Simulation.QuestStep[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "1|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step02_Start"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 1,
+                "Data": "%AwakeningQuest_Aspect_01_Step02_Objective"
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "2|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RecessPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessCountThreshold",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FactionTraitPrerequisites",
+                "Entry": 7,
+                "Data": "3|Amplitude.Mercury.Data.Simulation.Prerequisites.FactionTraitPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Effects",
+                "Entry": 7,
+                "Data": "4|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "5|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddHeroTrait, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "HeroTrait",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "HeroTrait_Mighty"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "6|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddHeroTrait, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "HeroTrait",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "HeroTrait_FastLearner"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step03"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step02_End"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "7|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "8|Amplitude.Mercury.Data.Simulation.SimulationEventEffectNarrativeSpawner_SpawnQuestPOI, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "TargetTile"
+            },
+            {
+                "Name": "SpawnedVariableName",
+                "Entry": 1,
+                "Data": "QuestPOI0"
+            },
+            {
+                "Name": "TagToApplyToSpawnedEntity",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0_Tag"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RandomSeed",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "VisibilityOwnerID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TileVisibility",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MinimalRange",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "NumberOfEntityToSpawnPerCenter",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "QuestPOISpawned",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "9|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "10|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "11|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "12|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteListenerDefinition_HeroInteractedWithQuestPOI, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "QuestPOI0"
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "NeededArmyComposition",
+                "Entry": 7,
+                "Data": "13|Amplitude.Framework.DatatableElementReference[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "QuestPOI",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "<IgnoreQuestProtectionDataCheck>k__BackingField",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "14|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "15|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "5"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "16|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Capital, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "17|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MajorEmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "18|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Entity_Territory, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapitalTerritory"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "19|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EntityID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "20|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Territories, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "TargetTerritory"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "21|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "3"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "22|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityIsAccessibleByLand, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "OriginID",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "MaximalDistanceToReach",
+                "Entry": 3,
+                "Data": "30"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "23|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTerritory, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Type",
+                "Entry": 3,
+                "Data": "5"
+            },
+            {
+                "Name": "Prerequisite",
+                "Entry": 3,
+                "Data": "16"
+            },
+            {
+                "Name": "MinimalEmergedTilesPercentage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "24|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityEquals, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "OtherEntityID",
+                "Entry": 1,
+                "Data": "MyCapitalTerritory"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "25|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Territory_Tiles, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "TargetTile"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "26|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "27|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTileTerrainFilter, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "TilePrerequisites",
+                "Entry": 7,
+                "Data": "28|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTileTerrainFilter+TilePrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RiverPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RiverPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Constraint",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "HideInUI",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ArmySpawnPossibility",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "CuriositySpawnPossiblity",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "DungeonSpawnPossiblity",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "QuestPOIValidAtPosition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "29|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityIsAccessibleByLand, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "OriginID",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "MaximalDistanceToReach",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "TerritoryID",
+                "Entry": 1,
+                "Data": "TargetTerritory"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "30|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Heroes, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "31|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "32|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step02_Start"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 1,
+                "Data": "%AwakeningQuest_Aspect_01_Step02_Objective"
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "33|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RecessPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessCountThreshold",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FactionTraitPrerequisites",
+                "Entry": 7,
+                "Data": "34|Amplitude.Mercury.Data.Simulation.Prerequisites.FactionTraitPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Effects",
+                "Entry": 7,
+                "Data": "35|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "36|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddHeroTrait, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "HeroTrait",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "HeroTrait_Mighty"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "37|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddHeroTrait, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "HeroTrait",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "HeroTrait_FastLearner"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step03"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_01_Step02_End"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "38|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "39|Amplitude.Mercury.Data.Simulation.SimulationEventEffectNarrativeSpawner_SpawnQuestPOI, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "TargetTile"
+            },
+            {
+                "Name": "SpawnedVariableName",
+                "Entry": 1,
+                "Data": "QuestPOI0"
+            },
+            {
+                "Name": "TagToApplyToSpawnedEntity",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0_Tag"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RandomSeed",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "VisibilityOwnerID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TileVisibility",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MinimalRange",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "NumberOfEntityToSpawnPerCenter",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "QuestPOISpawned",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "40|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "41|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "42|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "43|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteListenerDefinition_HeroInteractedWithQuestPOI, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "QuestPOI0"
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "NeededArmyComposition",
+                "Entry": 7,
+                "Data": "44|Amplitude.Framework.DatatableElementReference[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "QuestPOI",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "<IgnoreQuestProtectionDataCheck>k__BackingField",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "45|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "46|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "5"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "47|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Capital, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "48|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MajorEmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "49|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Entity_Territory, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapitalTerritory"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "50|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EntityID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "51|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Territories, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "TargetTerritory"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "52|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "53|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityIsAccessibleByLand, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "OriginID",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "MaximalDistanceToReach",
+                "Entry": 3,
+                "Data": "50"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "54|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTerritory, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Type",
+                "Entry": 3,
+                "Data": "5"
+            },
+            {
+                "Name": "Prerequisite",
+                "Entry": 3,
+                "Data": "16"
+            },
+            {
+                "Name": "MinimalEmergedTilesPercentage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "55|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_Territory_Tiles, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "TargetTile"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "56|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "57|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTileTerrainFilter, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "TilePrerequisites",
+                "Entry": 7,
+                "Data": "58|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterTileTerrainFilter+TilePrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RiverPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RiverPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Constraint",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "HideInUI",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ArmySpawnPossibility",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "CuriositySpawnPossiblity",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "DungeonSpawnPossiblity",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "QuestPOIValidAtPosition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "AwakeningQuest_Aspect_Quest_POI0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "59|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityIsAccessibleByLand, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsInverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "OriginID",
+                "Entry": 1,
+                "Data": "MyCapitalCity"
+            },
+            {
+                "Name": "MaximalDistanceToReach",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "TerritoryID",
+                "Entry": 1,
+                "Data": "TargetTerritory"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "60|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Heroes, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "Hero"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "61|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            }
+        ]
+    }
+}

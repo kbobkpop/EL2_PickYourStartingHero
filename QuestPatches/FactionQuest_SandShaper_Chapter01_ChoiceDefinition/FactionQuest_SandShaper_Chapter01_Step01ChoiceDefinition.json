@@ -1,0 +1,1780 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestChoiceDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": [
+            {
+                "Name": "QuestSteps",
+                "Entry": 7,
+                "Data": "0|Amplitude.Mercury.Data.Simulation.QuestStep[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "1|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step01_BranchA_Start"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 1,
+                "Data": "%FactionQuest_SandShaper_Chapter01_Step01_BranchA_Objective"
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "2|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RecessPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessCountThreshold",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FactionTraitPrerequisites",
+                "Entry": 7,
+                "Data": "3|Amplitude.Mercury.Data.Simulation.Prerequisites.FactionTraitPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Effects",
+                "Entry": 7,
+                "Data": "4|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "5|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_ApplyStatus, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "MyCapital"
+            },
+            {
+                "Name": "StatusDefinition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Status_City_Science_Medium"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Duration",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "InitiatorType",
+                "Entry": 3,
+                "Data": "10"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "6|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddResearch, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "Amount",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.CostDefinition, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Constant",
+                "Entry": 7,
+                "Data": "Amplitude.FixedPoint, Amplitude.Framework"
+            },
+            {
+                "Name": "RawValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RpnDefinitionReference",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Quest_Science01"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "ShowTargets",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step02"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step01_End"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "7|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "8|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "9|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "10|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "11|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_TargetPropertyValue, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartingType",
+                "Entry": 1,
+                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
+            },
+            {
+                "Name": "Path",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
+            },
+            {
+                "Name": "PropertyToFollow",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Validations",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "specificTargetType",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "TargetedProperty",
+                "Entry": 1,
+                "Data": "SandRuinRaisedCount"
+            },
+            {
+                "Name": "NumberOfEntityToValidate",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "PropertyValue",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "LocalizationMode",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "NumberOfTurnToValidate",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "PropertyPathIndex",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "12|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 1,
+                "Data": "Ten"
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 1,
+                "Data": "Ten"
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "13|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "14|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Capital, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapital"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "15|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MajorEmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "16|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Heroes, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "Ten"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "17|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "18|Amplitude.Mercury.Data.Simulation.QuestStepGeneric, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step01_BranchA_Start"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Weight",
+                "Entry": 3,
+                "Data": "100"
+            },
+            {
+                "Name": "ObjectiveLoreKey",
+                "Entry": 1,
+                "Data": "%FactionQuest_SandShaper_Chapter01_Step01_BranchB_Objective"
+            },
+            {
+                "Name": "TurnTimer",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "AIFallbackTimer",
+                "Entry": 3,
+                "Data": "20"
+            },
+            {
+                "Name": "EffectAtCompletion",
+                "Entry": 7,
+                "Data": "19|Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.QuestStep+EffectWithPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessPrerequisite",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.Prerequisites.RecessPrerequisite, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "RecessCountThreshold",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FactionTraitPrerequisites",
+                "Entry": 7,
+                "Data": "20|Amplitude.Mercury.Data.Simulation.Prerequisites.FactionTraitPrerequisite[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Effects",
+                "Entry": 7,
+                "Data": "21|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "22|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_ApplyStatus, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "MyCapital"
+            },
+            {
+                "Name": "StatusDefinition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Status_City_Science_Medium"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Duration",
+                "Entry": 3,
+                "Data": "-1"
+            },
+            {
+                "Name": "InitiatorType",
+                "Entry": 3,
+                "Data": "10"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "23|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddResearch, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "Amount",
+                "Entry": 7,
+                "Data": "Amplitude.Mercury.Data.Simulation.CostDefinition, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Constant",
+                "Entry": 7,
+                "Data": "Amplitude.FixedPoint, Amplitude.Framework"
+            },
+            {
+                "Name": "RawValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "RpnDefinitionReference",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Quest_Science01"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "ShowTargets",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "NextQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step02"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EndDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "FactionQuest_SandShaper_Chapter01_Step01_End"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailQuest",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailDialog",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Notes",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStart",
+                "Entry": 7,
+                "Data": "24|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "EffectAtStartLifeTime",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "SelectionPrerequisite",
+                "Entry": 7,
+                "Data": "25|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "26|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_EmpireWorldPercentageExplored, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "PercentageToExplore",
+                "Entry": 3,
+                "Data": "5"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "27|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_TargetContainDescriptor, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "StartingType",
+                "Entry": 1,
+                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
+            },
+            {
+                "Name": "Path",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
+            },
+            {
+                "Name": "PropertyToFollow",
+                "Entry": 7,
+                "Data": "28|System.String[], mscorlib"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 1,
+                "Data": "RaisedSandRuins"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "Validations",
+                "Entry": 7,
+                "Data": "29|Amplitude.Framework.Simulation.Description.Validation[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.Simulation.Description.Validation, Amplitude.Framework"
+            },
+            {
+                "Name": "PathIndex",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ValidableElementCollection",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Inverted",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Tag_SandRuin_Raised"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "specificTargetType",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ValueToReach",
+                "Entry": 3,
+                "Data": "2"
+            },
+            {
+                "Name": "NumberOfTurnToValidate",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ComparisonOperator",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "ForbiddenPrerequisite",
+                "Entry": 7,
+                "Data": "30|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "31|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_EmpireWorldPercentageExplored, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "PercentageToExplore",
+                "Entry": 3,
+                "Data": "10"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "CompletionPrerequisite",
+                "Entry": 7,
+                "Data": "32|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "33|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition_EmpireWorldPercentageExplored, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SourceID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "PrerequisiteLocalizationOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "InjectCompletion",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "InjectDuration",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "IsHidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "HideLocate",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "PercentageToExplore",
+                "Entry": 3,
+                "Data": "10"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "FailurePrerequisite",
+                "Entry": 7,
+                "Data": "34|Amplitude.Mercury.Data.Simulation.SimulationPrerequisiteDefinition[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestGiver",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "OverridingQuestPosition",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Variables",
+                "Entry": 7,
+                "Data": "35|Amplitude.Mercury.Data.Simulation.SimulationEventVariable[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "36|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Capital, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "MyCapital"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "4"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "3"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "37|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "MajorEmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "38|Amplitude.Mercury.Data.Simulation.NarrativeEventVariable_MajorEmpire_Heroes, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "Name",
+                "Entry": 1,
+                "Data": "Ten"
+            },
+            {
+                "Name": "Usage",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "OverrideUsageFlag",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "Optional",
+                "Entry": 5,
+                "Data": "true"
+            },
+            {
+                "Name": "CollectionSelector",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "SelectorCount",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "HasCountCondition",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "CountConditionOperator",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "CountConditionValue",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "ElementFilters",
+                "Entry": 7,
+                "Data": "39|Amplitude.Mercury.Data.Simulation.SimulationVariableFilter[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "0"
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "SortPropertyName",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "SortOrder",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "EmpireID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            }
+        ]
+    }
+}

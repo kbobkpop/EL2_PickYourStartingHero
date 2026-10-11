@@ -1,0 +1,420 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.FactionTrait, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": [
+            {
+                "Name": "SimulationEventEffects",
+                "Entry": 7,
+                "Data": "0|Amplitude.Mercury.Data.Simulation.SimulationEventEffect[], Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "6"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "1|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_ApplyDescriptor, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 1,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "Descriptor",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Tag_FactionTrait_NecrophageUnits"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "2|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_SetEmpireMilitiaComposition, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "MilitiaCompositionReference",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "EmpireMilitiaComposition_Necrophage"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "3|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddUnitsToStartingArmy, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "StartingArmyIndex",
+                "Entry": 3,
+                "Data": "0"
+            },
+            {
+                "Name": "UnitDefinitions",
+                "Entry": 7,
+                "Data": "4|Amplitude.Framework.DatatableElementReference[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "2"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Unit_Necrophage_Swarm_Larva"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Unit_Necrophage_Swarm_Larva"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "5|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddUnitsToStartingArmy, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "StartingArmyIndex",
+                "Entry": 3,
+                "Data": "1"
+            },
+            {
+                "Name": "UnitDefinitions",
+                "Entry": 7,
+                "Data": "6|Amplitude.Framework.DatatableElementReference[], Amplitude.Framework"
+            },
+            {
+                "Name": "",
+                "Entry": 12,
+                "Data": "1"
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "Unit_Necrophage_Necrodrone"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "7|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddEmpireEffectEvent, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "EffectEventDefinition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "EmpireEffectEvent_StartingHeroChoice"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 7,
+                "Data": "8|Amplitude.Mercury.Data.Simulation.SimulationEventEffect_AddEmpireEffectEvent, Amplitude.Mercury.Data"
+            },
+            {
+                "Name": "SimulationEffectDescriptionOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "UIMapperOverride",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "Hidden",
+                "Entry": 5,
+                "Data": "false"
+            },
+            {
+                "Name": "GainValues",
+                "Entry": 6,
+                "Data": ""
+            },
+            {
+                "Name": "TargetID",
+                "Entry": 1,
+                "Data": "Empire"
+            },
+            {
+                "Name": "EffectEventDefinition",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
+                "Entry": 1,
+                "Data": "EmpireEffectEvent_StartingHeroChoice_HeroRecruited"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 13,
+                "Data": ""
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
+            }
+        ]
+    },
+    "IsObsolete": false,
+    "DLCPrerequisite": {
+        "DownloadableContent": 0
+    },
+    "Cost": 10,
+    "ForbiddenFactionTrait": [],
+    "MandatoryFactionAffinity": {
+        "serializableElementName": "FactionAffinity_Necrophage"
+    },
+    "BoundFactionTrait": [],
+    "IsAvailableForCustomFaction": true,
+    "Category": {
+        "serializableElementName": "FactionTraitCategory_Units"
+    },
+    "AITraits": 1048576
+}

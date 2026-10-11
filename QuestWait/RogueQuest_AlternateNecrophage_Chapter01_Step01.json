@@ -1,0 +1,41 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": ""
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": []
+    },
+    "IsObsolete": false,
+    "CanBeCanceled": false,
+    "IsMandatory": false,
+    "IsKeyNarrativeBeat": false,
+    "IsNarrativeVictoryPathChoice": false,
+    "AutoPin": true,
+    "OverrideCategoryHideVFX": false,
+    "HideVFX": false,
+    "FallbackChoice": {
+        "serializableElementName": ""
+    },
+    "Category": {
+        "serializableElementName": "QuestCategory_FactionQuest"
+    },
+    "StartDialog": {
+        "serializableElementName": ""
+    },
+    "Choices": [
+        {
+            "serializableElementName": "RogueQuest_AlternateNecrophage_Chapter01_Step01_WaitChoiceDefinition"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.UI.UIMapper, Amplitude.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": "RogueQuest_AlternateNecrophage_Chapter01_Step01"
+    },
+    "RawTitle": "%RogueQuest_AlternateNecrophage_Chapter01Title",
+    "Description": "%RogueQuest_AlternateNecrophage_Chapter01Description",
+    "Lore": "",
+    "Images": [
+        {
+            "Value": {
+                "guid": {
+                    "a": -127208587,
+                    "b": 1262131675,
+                    "c": -1892500317,
+                    "d": 1830272314
+                },
+                "virtualTextureKeyHash": 0
+            },
+            "serializableKey": "Artwork"
+        }
+    ],
+    "UIColor": {
+        "paletteGuid": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0
+        },
+        "colorGuid": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0
+        },
+        "freeColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "modifierHolder": {
+            "isEnabled": false,
+            "alpha": 0.0
+        }
+    },
+    "Symbol": "",
+    "OptionalTag": ""
+}

@@ -1,0 +1,41 @@
+{
+    "AMP_SERIALIZATION_HEADER": {
+        "Version": 0,
+        "AssetTypeName": "Amplitude.Mercury.Data.Simulation.QuestDefinition, Amplitude.Mercury.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "SourceElementName": "FactionQuest_Mukag_Chapter01_Step01"
+    },
+    "serializationData": {
+        "SerializedFormat": 2,
+        "SerializedBytes": [],
+        "ReferencedUnityObjects": [],
+        "SerializedBytesString": "",
+        "Prefab": {
+            "instanceID": 0
+        },
+        "PrefabModificationsReferencedUnityObjects": [],
+        "PrefabModifications": [],
+        "SerializationNodes": []
+    },
+    "IsObsolete": false,
+    "CanBeCanceled": false,
+    "IsMandatory": true,
+    "IsKeyNarrativeBeat": false,
+    "IsNarrativeVictoryPathChoice": false,
+    "AutoPin": true,
+    "OverrideCategoryHideVFX": true,
+    "HideVFX": false,
+    "FallbackChoice": {
+        "serializableElementName": ""
+    },
+    "Category": {
+        "serializableElementName": "QuestCategory_FactionQuest"
+    },
+    "StartDialog": {
+        "serializableElementName": ""
+    },
+    "Choices": [
+        {
+            "serializableElementName": "FactionQuest_Mukag_Chapter01_Step01ChoiceDefinition"
+        }
+    ]
+}

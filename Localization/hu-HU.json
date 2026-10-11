@@ -1,0 +1,8 @@
+{
+    "%StartingHeroChoice_WaitForHero_Start_Sentence01": "Your people are ready to follow a champion, but none has been chosen yet. Recruit your first hero, and the story of your people can begin.",
+    "%StartingHeroChoice_WaitForHero_Start_Sentence02": "Choose well. The hero you recruit will stand beside you through the trials ahead.",
+    "%StartingHeroChoice_WaitForHero_Start_Objective": "Recruit your first hero.",
+    "%StartingHeroChoice_WaitForHero_Start_Condition": "Recruit your first hero ({0})",
+    "%StartingHeroChoice_WaitForHero_Start_Title": "A Hero Is Needed",
+    "%StartingHeroChoice_WaitForHero_Start_Description": "Before this chapter of their story can begin, your people need a hero to lead them."
+}
