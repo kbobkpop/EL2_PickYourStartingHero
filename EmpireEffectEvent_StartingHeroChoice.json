@@ -103,27 +103,17 @@
             {
                 "Name": "Filter",
                 "Entry": 7,
-                "Data": "4|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityPathCount, Amplitude.Mercury.Data"
+                "Data": "4|Amplitude.Mercury.Data.Simulation.SimulationVariableFilterEntityDescriptor, Amplitude.Mercury.Data"
             },
             {
                 "Name": "IsInverted",
                 "Entry": 5,
-                "Data": "false"
+                "Data": "true"
             },
             {
-                "Name": "StartingType",
-                "Entry": 1,
-                "Data": "Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass"
-            },
-            {
-                "Name": "Path",
+                "Name": "MustHaveOneOfDescriptors",
                 "Entry": 7,
-                "Data": "Amplitude.Framework.Simulation.Description.Path, Amplitude.Framework"
-            },
-            {
-                "Name": "PropertyToFollow",
-                "Entry": 7,
-                "Data": "5|System.String[], mscorlib"
+                "Data": "5|Amplitude.Framework.DatatableElementReference[], Amplitude.Framework"
             },
             {
                 "Name": "",
@@ -132,8 +122,18 @@
             },
             {
                 "Name": "",
+                "Entry": 7,
+                "Data": "Amplitude.Framework.DatatableElementReference, Amplitude.Framework"
+            },
+            {
+                "Name": "serializableElementName",
                 "Entry": 1,
-                "Data": "Cities"
+                "Data": "Tag_Empire_StartingHeroChoice_HeroPicked"
+            },
+            {
+                "Name": "",
+                "Entry": 8,
+                "Data": ""
             },
             {
                 "Name": "",
@@ -144,36 +144,6 @@
                 "Name": "",
                 "Entry": 8,
                 "Data": ""
-            },
-            {
-                "Name": "Validations",
-                "Entry": 6,
-                "Data": ""
-            },
-            {
-                "Name": "specificTargetType",
-                "Entry": 6,
-                "Data": ""
-            },
-            {
-                "Name": "",
-                "Entry": 8,
-                "Data": ""
-            },
-            {
-                "Name": "TargetPathIndexToCount",
-                "Entry": 3,
-                "Data": "0"
-            },
-            {
-                "Name": "ComparisonOperator",
-                "Entry": 3,
-                "Data": "4"
-            },
-            {
-                "Name": "TargetValue",
-                "Entry": 3,
-                "Data": "1"
             },
             {
                 "Name": "",

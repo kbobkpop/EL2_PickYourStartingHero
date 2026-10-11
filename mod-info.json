@@ -1,8 +1,8 @@
 {
     "DisplayName": "Pick Your Starting Hero",
-    "Description": "Removes your faction's fixed starting hero. When you found your capital, you choose your first hero from a draw of three. Faction quests that featured the classic starting hero now use the hero you picked.",
+    "Description": "Removes your faction's fixed starting hero. When you found your capital, you pick your first hero from a draw of three. Faction quests that featured the classic starting hero now use the hero you picked. \n\n[h2]A Hero Is Needed[/h2]\nFor Tahuks, Order of Zelevas, Severed Claws and Sandshapers, their starting normally hero features in their first faction quest. This quest is normally triggered around turn 5 (Normal speed), if you have already settled. If you settle at a later turn, it will trigger the moment you settle. Since this mod introduces a draw after you settle, this initial quest would be empty because you do not have a hero yet. This means the dialog would stop when the hero was supposed to talk, and the dialog would play again on subsequent turns until the player had picked a hero, which is a bit janky. For this reason a mini quest, 'A Hero Is Needed', is introduced when a player founds its capital late with one of these factions. This quest asks the player to recruit a hero and keep it for one turn. The turn after the player has recruited its hero the normal faction quest will begin.\n\n[h2]Version 1.1[/h2]\nFixed a bug which could let the player draw 3 heroes on each new city.",
     "Author": "kjmayo",
-    "Version": "1.0",
+    "Version": "1.1",
     "GameVersion": "",
     "Guid": "2cc819ae-955d-4a58-a7f7-298e98619ea4",
     "SteamWorkshopId": "3811770657"
